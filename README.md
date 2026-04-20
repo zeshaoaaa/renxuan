@@ -2,6 +2,8 @@
 
 《人选天选论》决策剖析、自我觉察与复盘 skill。
 
+《基于renxuantianxuan.com中的章节以及直播切片的文稿制作而成》
+
 ## 包含内容
 
 - `SKILL.md`：skill 主说明
