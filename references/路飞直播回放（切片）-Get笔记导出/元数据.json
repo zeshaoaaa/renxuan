@@ -1,0 +1,113 @@
+{
+  "extractedAt": "2026-04-21 02:13:01",
+  "subjectUrl": "https://www.biji.com/subject/40DxL8r0/DEFAULT?followId=1232337&followName=%E8%B7%AF%E9%A3%9E%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%88%E5%88%87%E7%89%87%EF%BC%89&page=1",
+  "topic": {
+    "id": 3454719,
+    "id_alias": "40DxL8r0",
+    "uid": 1086378,
+    "name": "路飞直播回放（切片）",
+    "description": "",
+    "cover": "",
+    "avatar": "https://pic-cdn.trytalks.com/pic/202306022120/avatar_191e7b2240007088.jpg",
+    "creator": "Get达人",
+    "is_author": 1,
+    "is_added": 1,
+    "is_selection": 0,
+    "scope": "DEFAULT",
+    "open_subscription": 0,
+    "share_url": "https://biji.com/topic/40DxL8r0",
+    "share_info": {
+      "share_mode": "CLOSED",
+      "share_link": "https://biji.com/topic/40DxL8r0",
+      "share_qrcode": "",
+      "share_team_info": {
+        "team_id": 0,
+        "team_role": "",
+        "team_auto_audit": 0
+      },
+      "share_permission": {
+        "allow_access_original": true
+      },
+      "share_config": {
+        "allow_access_original": true
+      },
+      "guide": null,
+      "publish": false
+    },
+    "extend_data": {
+      "all_resource_count": 1,
+      "resource_count": 0,
+      "get_note_count": 0,
+      "subscribe_count": 1,
+      "sub_dir_count": 0,
+      "stats_info": "1个内容 · 1人在用",
+      "follow_count": 1,
+      "follow_accounts_count": 1,
+      "follow_all_live_count": 0,
+      "follow_contented_live_count": 0
+    },
+    "root_dir": {
+      "id": 4212396,
+      "topic_id": 3454719,
+      "parent_id": 0,
+      "name": "默认目录",
+      "type": "ROOT",
+      "status": "",
+      "resource_desc": "",
+      "add_desc": "",
+      "create_time": 1776708222,
+      "update_time": 1776708222
+    },
+    "config": {
+      "file_type": [
+        "PDF",
+        "DOC",
+        "DOCX",
+        "PPT",
+        "PPTX"
+      ],
+      "file_max_size": 209715200
+    },
+    "has_item": 1,
+    "last_update_time": 1776708291,
+    "last_update_time_desc": "今天更新",
+    "create_time": 1776708222,
+    "update_time": 1776708290
+  },
+  "follow": {
+    "id": 1232337,
+    "name": "路飞直播回放（切片）"
+  },
+  "bloggerInfo": {
+    "followee_type": 1,
+    "followee_id_alias": "9JDAmxMjnlZGyokj",
+    "account_id_alias": "9JDAmxMjnlZGyokj",
+    "account_name": "路飞直播回放（切片）",
+    "account_avatar": "https://pic-cdn.trytalks.com/pic/202604210204/avatar_1a799ab08004a708WnzO1ZaH.jpg?x-oss-process=image/format,jpg",
+    "notes_count": 178,
+    "notes_count_desc": "178条笔记",
+    "watch_id": 996493,
+    "watch_uid": 1086378,
+    "is_watching": true,
+    "platform": "douyin",
+    "watch_create_time": 1776708291,
+    "followed_topics": [
+      {
+        "topic_id": 3454719,
+        "topic_name": "路飞直播回放（切片）"
+      }
+    ],
+    "latest_post_id_alias": "5KXNGjBb0lMw05bv",
+    "latest_post_time": 1776357171,
+    "latest_post_time_desc": "4月17日 00:32",
+    "latest_post": null,
+    "latest_update_hint": "",
+    "is_show_latest_update_hint_dot": false,
+    "blogger_activity_desc": "4月17日 00:32 · 178条笔记",
+    "display_time": 0,
+    "display_time_desc": "",
+    "id_time": ""
+  },
+  "total": 178,
+  "failures": []
+}
