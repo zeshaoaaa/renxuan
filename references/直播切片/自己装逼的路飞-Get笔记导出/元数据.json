@@ -1,0 +1,113 @@
+{
+  "extractedAt": "2026-04-22 04:58:46",
+  "subjectUrl": "https://www.biji.com/subject/EJXbolgY/DEFAULT?followId=1233594&followName=%E8%87%AA%E5%B7%B1%E8%A3%85%E9%80%BC%E7%9A%84%E8%B7%AF%E9%A3%9E",
+  "topic": {
+    "id": 3462980,
+    "id_alias": "EJXbolgY",
+    "uid": 1086378,
+    "name": "自己装逼的路飞",
+    "description": "",
+    "cover": "",
+    "avatar": "https://pic-cdn.trytalks.com/pic/202306022120/avatar_191e7b2240007088.jpg",
+    "creator": "Get达人",
+    "is_author": 1,
+    "is_added": 1,
+    "is_selection": 0,
+    "scope": "DEFAULT",
+    "open_subscription": 0,
+    "share_url": "https://biji.com/topic/EJXbolgY",
+    "share_info": {
+      "share_mode": "CLOSED",
+      "share_link": "https://biji.com/topic/EJXbolgY",
+      "share_qrcode": "",
+      "share_team_info": {
+        "team_id": 0,
+        "team_role": "",
+        "team_auto_audit": 0
+      },
+      "share_permission": {
+        "allow_access_original": true
+      },
+      "share_config": {
+        "allow_access_original": true
+      },
+      "guide": null,
+      "publish": false
+    },
+    "extend_data": {
+      "all_resource_count": 1,
+      "resource_count": 0,
+      "get_note_count": 0,
+      "subscribe_count": 1,
+      "sub_dir_count": 0,
+      "stats_info": "1个内容 · 1人在用",
+      "follow_count": 1,
+      "follow_accounts_count": 1,
+      "follow_all_live_count": 0,
+      "follow_contented_live_count": 0
+    },
+    "root_dir": {
+      "id": 4223405,
+      "topic_id": 3462980,
+      "parent_id": 0,
+      "name": "默认目录",
+      "type": "ROOT",
+      "status": "",
+      "resource_desc": "",
+      "add_desc": "",
+      "create_time": 1776805004,
+      "update_time": 1776805004
+    },
+    "config": {
+      "file_type": [
+        "PDF",
+        "DOC",
+        "DOCX",
+        "PPT",
+        "PPTX"
+      ],
+      "file_max_size": 209715200
+    },
+    "has_item": 1,
+    "last_update_time": 1776805020,
+    "last_update_time_desc": "今天更新",
+    "create_time": 1776805004,
+    "update_time": 1776805020
+  },
+  "follow": {
+    "id": 1233594,
+    "name": "自己装逼的路飞"
+  },
+  "bloggerInfo": {
+    "followee_type": 1,
+    "followee_id_alias": "WZYL8PYXpeqGVa9b",
+    "account_id_alias": "WZYL8PYXpeqGVa9b",
+    "account_name": "自己装逼的路飞",
+    "account_avatar": "https://pic-cdn.trytalks.com/pic/202604220457/avatar_1a79f927000418501GsuUhuP.jpg?x-oss-process=image/format,jpg",
+    "notes_count": 400,
+    "notes_count_desc": "400条笔记",
+    "watch_id": 997610,
+    "watch_uid": 1086378,
+    "is_watching": true,
+    "platform": "douyin",
+    "watch_create_time": 1776805020,
+    "followed_topics": [
+      {
+        "topic_id": 3462980,
+        "topic_name": "自己装逼的路飞"
+      }
+    ],
+    "latest_post_id_alias": "lAoLa2PdBVmq4W5K",
+    "latest_post_time": 1776674596,
+    "latest_post_time_desc": "4月20日 16:43",
+    "latest_post": null,
+    "latest_update_hint": "",
+    "is_show_latest_update_hint_dot": false,
+    "blogger_activity_desc": "4月20日 16:43 · 400条笔记",
+    "display_time": 0,
+    "display_time_desc": "",
+    "id_time": ""
+  },
+  "total": 400,
+  "failures": []
+}
